@@ -24,7 +24,6 @@ namespace IntroToCSharp
                     Console.WriteLine("Enter 1 to view balance");
                     Console.WriteLine("Enter 2 to withdraw cash");
                     Console.WriteLine("Enter 3 to deposit");
-                    Console.WriteLine("Enter 4 to change pin");
 
                     Console.Write("Enter your choice:");
                     userInput = Console.ReadLine();
@@ -38,7 +37,6 @@ namespace IntroToCSharp
                             Console.WriteLine("Enter 1 to view balance");
                             Console.WriteLine("Enter 2 to withdraw cash");
                             Console.WriteLine("Enter 3 to deposit");
-                            Console.WriteLine("Enter 4 to change pin");
 
                             Console.Write("Enter your choice:");
                             userInput = Console.ReadLine();
@@ -55,7 +53,6 @@ namespace IntroToCSharp
                             Console.WriteLine("Enter 1 to view balance");
                             Console.WriteLine("Enter 2 to withdraw cash");
                             Console.WriteLine("Enter 3 to deposit");
-                            Console.WriteLine("Enter 4 to change pin");
 
                             Console.Write("Enter your choice:");
                             userInput = Console.ReadLine();
@@ -73,33 +70,6 @@ namespace IntroToCSharp
                             Console.WriteLine("Enter 1 to view balance");
                             Console.WriteLine("Enter 2 to withdraw cash");
                             Console.WriteLine("Enter 3 to deposit");
-                            Console.WriteLine("Enter 4 to change pin");
-
-                            Console.Write("Enter your choice:");
-                            userInput = Console.ReadLine();
-
-                            break;
-                        case "4":
-                            Console.WriteLine("Enter your new PIN");
-                            string newPinCode = Console.ReadLine();
-
-                            if (newPinCode.Length > 4)
-                            {
-                                Console.WriteLine("error: pincode should be 4 digits only.");
-                            }
-                            else
-                            {
-                                Console.WriteLine("Successfully changed PIN");
-                            }
-
-                            Console.WriteLine("Successfully added cash.");
-                            Console.WriteLine("Your new balance is " + balance);
-
-                            Console.WriteLine("MENU");
-                            Console.WriteLine("Enter 1 to view balance");
-                            Console.WriteLine("Enter 2 to withdraw cash");
-                            Console.WriteLine("Enter 3 to deposit");
-                            Console.WriteLine("Enter 4 to change pin");
 
                             Console.Write("Enter your choice:");
                             userInput = Console.ReadLine();
