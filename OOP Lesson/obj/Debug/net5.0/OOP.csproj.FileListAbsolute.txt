@@ -1,0 +1,16 @@
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.exe
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.deps.json
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.dll
+C:\Users\indaleen\source\repos\OOP\bin\Debug\net5.0\OOP.pdb
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.dll
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\refint\OOP.dll
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.pdb
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
+C:\Users\indaleen\source\repos\OOP\obj\Debug\net5.0\ref\OOP.dll
